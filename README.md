@@ -7,7 +7,7 @@
    ### Onde tudo começou...
      
    Primeira host comprada e tambem primeiro mapa com regras e survival pacifico
-      World download:
+      ![Print](https://raw.githubusercontent.com/koidfas/PutzArchive/main/Fotos/2021-01-16_18.42.48.png)
     
   ---
   
