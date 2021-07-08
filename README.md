@@ -12,10 +12,14 @@
   ---
   
   # Putz Anarchy (1.16+)
+ Teste Anarchy, ideia horrivel...
   
   
   ---
   
   
   # Putz Reborn (1.16+)
+O melhor Putz de todos os tempos.
+
+
 
