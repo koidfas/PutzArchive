@@ -11,12 +11,12 @@
     
   ---
   
-  # 🌠[Putz Anarchy (1.16+)](https://www.mediafire.com/file/gkgsnqdzmbjdc0l/PutzCraft_1%25C2%25BA_Anarchy.rar/file)
+  # 🌠[Putz Anarchy 1º (1.16+)](https://www.mediafire.com/file/gkgsnqdzmbjdc0l/PutzCraft_1%25C2%25BA_Anarchy.rar/file)
  Teste Anarchy, ideia horrivel...
   
+  ### 📌Putz Anarchy 2º (1.16+) - Missing
   
   ---
-  
   
   # 🌠[Putz Reborn (1.16+)](https://www.mediafire.com/file/hc7so0yrgukaxbz/Putzcraft_Finale.rar/file)
 O melhor Putz de todos os tempos.
