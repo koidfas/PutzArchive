@@ -12,7 +12,7 @@
   ---
   
   # ✔️[Putz Anarchy 1º (1.16+)](https://www.mediafire.com/file/gkgsnqdzmbjdc0l/PutzCraft_1%25C2%25BA_Anarchy.rar/file)
- Teste Anarchy, ideia horrivel...
+ Teste Anarchy.
   
   ### ❌ Putz Anarchy 2º (1.16+) - Missing
   
