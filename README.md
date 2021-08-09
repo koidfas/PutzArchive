@@ -34,4 +34,10 @@ Enjoado da quarentena decidi criar um Putz e esse foi, considerado por alguns, o
   ---
 
 # ✔️[Putz VOIP (1.17.1)](https://www.mediafire.com/file/a0wmwm7ugg1qbqz/PutzVOIP.rar/file)
+### Putz com VOIP integrado no jogo!
+
+Com o lançamento da 1.17 e a vontade gigantesca de fazer um putz, surgiu o Putz VOIP!
+
+***Server 24/7, Survival Pacifico e Fabric***
+
 
