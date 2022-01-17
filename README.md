@@ -11,7 +11,7 @@
     
   ---
   
-  # ✔️[Putz Anarchy 1º (1.16+)](https://www.mediafire.com/file/gkgsnqdzmbjdc0l/PutzCraft_1%25C2%25BA_Anarchy.rar/file)
+  # ✔️[Putz Anarchy 1º (1.16+)](https://www.mediafire.com/file/curcbih7ivcpqcj/PutzCraftAnarchy1.rar/file)
    ### Ideia nova...
    
    Depois de olhar muito conteudo de 2b2t decidi criar um "anarchy", um dos piores putz...
