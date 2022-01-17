@@ -12,9 +12,9 @@
   ---
   
   # ✔️[Putz Anarchy 1º (1.16+)](https://www.mediafire.com/file/curcbih7ivcpqcj/PutzCraftAnarchy1.rar/file)
-   ### Ideia nova...
+   ### Ideia nova!
    
-   Depois de olhar muito conteudo de 2b2t decidi criar um "anarchy", um dos piores putz...
+   Depois de olhar muito conteudo de 2b2t decidi criar um "anarchy".
   
    ***Conceito de server 24/7 e Anarchy***
  
