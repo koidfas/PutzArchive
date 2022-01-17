@@ -7,7 +7,7 @@
    
    ***Conceito de server 24/7 e Survival pacifico***
      
-   <img src="https://github.com/koidfas/PutzArchive/blob/main/Prints%20Cl%C3%A1ssico/PutzBanner.jpg">
+   <img src="https://github.com/koidfas/PutzArchive/blob/main/Prints%20Clássico/PutzClassic.png">
     
   ---
   
