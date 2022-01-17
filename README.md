@@ -17,7 +17,9 @@
    Depois de olhar muito conteudo de 2b2t decidi criar um "anarchy".
   
    ***Conceito de server 24/7 e Anarchy***
- 
+   
+   <img src="https://github.com/koidfas/PutzArchive/blob/main/Fotos%20Anarchy/PutzAnarchy.png">
+   
  ### ❌ Putz Anarchy 2º (1.16+) - Missing
   
   ---
