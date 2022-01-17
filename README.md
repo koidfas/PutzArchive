@@ -22,7 +22,7 @@
   
   ---
   
-  # ✔️[Putz Reborn (1.16+)](https://www.mediafire.com/file/hc7so0yrgukaxbz/Putzcraft_Finale.rar/file)
+  # ✔️[Putz Reborn (1.16+)](https://www.mediafire.com/file/rhfz1x1mdt7lsfb/PutzCraftReborn.rar/file)
 ### Um dos Putz mais avançados!
 
 Enjoado da quarentena decidi criar um Putz e esse foi, considerado por alguns, o melhor putz de todos os tempos!!!
@@ -33,7 +33,7 @@ Enjoado da quarentena decidi criar um Putz e esse foi, considerado por alguns, o
   
   ---
 
-# ✔️[Putz VOIP (1.17.1)](https://www.mediafire.com/file/a0wmwm7ugg1qbqz/PutzVOIP.rar/file)
+# ✔️[Putz VOIP (1.17.1)](https://www.mediafire.com/file/1d1gl7djn174cjr/PutzVOIP.rar/file)
 ### Putz com VOIP integrado no jogo!
 
 Com o lançamento da 1.17 e a vontade gigantesca de fazer um putz, surgiu o Putz VOIP!
