@@ -1,6 +1,6 @@
 # PutzArchive - As aventuras mirabolantes de desempregados!!!
   
- # ✔️[Putz Clássico (1.15.2)](https://www.mediafire.com/file/0to5pvk08sn0pjo/PutzCraft_Classic.zip/file)
+ # ✔️[Putz Clássico (1.15.2)](https://www.mediafire.com/file/qs7onfl3hd8lzax/PutzCraftClassic.rar/file)
    ### Onde tudo começou...
      
    Alunos do terceirão sem nada pra fazer no começo das aulas online, decidiram começar o Putz!
