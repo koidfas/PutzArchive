@@ -31,7 +31,7 @@ Enjoado da quarentena decidi criar um Putz e esse foi, considerado por alguns, o
 
 ***Conceito de server 24/7 e Survival Pacifico***
 
-<img src="https://github.com/koidfas/PutzArchive/blob/main/Prints%20Reborn/PutzRebornBanner.jpg">
+<img src="https://github.com/koidfas/PutzArchive/blob/main/Prints%20Reborn/PutzCrafrReborn.png">
   
   ---
 
