@@ -44,7 +44,7 @@ Com o lançamento da 1.17 e a vontade gigantesca de fazer um putz, surgiu o Putz
 
 <img src="https://github.com/koidfas/PutzArchive/blob/main/Prints%20VOID/PutzCraftVoid.png">
 
-# ✔️[PutzCraft em Casa (1.19.2)](https://www.mediafire.com/file/1d1gl7djn174cjr/PutzVOIP.rar/file)
+# ✔️[PutzCraft em Casa (1.19.2)](https://www.mediafire.com/file/oqxjuus5tgillz8/PutzCraftemCasa.tar.gz/file)
 ### Primeiro server feito/testado com server dedicado em casa!
 
 No final deu tudo certo e o server rodou maravilhosamente bem no server dedicado em casa e com direito a ip dedicado!
