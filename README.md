@@ -47,4 +47,6 @@ Com o lançamento da 1.17 e a vontade gigantesca de fazer um putz, surgiu o Putz
 # ✔️[PutzCraft em Casa (1.19.2)](https://www.mediafire.com/file/1d1gl7djn174cjr/PutzVOIP.rar/file)
 ### Primeiro server feito/testado com server dedicado em casa!
 
+No final deu tudo certo e o server rodou maravilhosamente bem no server dedicado em casa e com direito a ip dedicado!
+
 ***Server 24/7, Survival Pacifico, Fabric e Terralith***
